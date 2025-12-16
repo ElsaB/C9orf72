@@ -1,0 +1,39 @@
+9/1/2025
+
+Bonjour Elsa,
+
+Donc un peu moins de 50 patients, 
+car nous avons retiré certains avec un profil d'expansion très particulier qui relève d'une autre question scientifique.
+Les deux groupes cliniques sont assez homogènes, 
+les ALS étant prélevés en moyenne un peu plus tôt (En fait une patiente (BMV-01-MOV-1257) biaise un peu le tout).
+
+Depuis je n'ai pas refait le calcul, 
+mais si grosso-modo la taille moyenne des expansions n'est pas corrélée à l'âge au prélèvement, 
+ça simplifiera les choses, ça on  peut regarder de nouveau maintenant que la cohorte est freezée.
+Après il me semble que la distribution cumulée de tous était légèrement différente entre les jeunes et les âgés, 
+en mettant un seuil pour couper en deux la population.
+
+Je me rajoute à Mounir pour te remercier par avance.
+N'hésite pas à revenir vers nous.
+Mathieu
+
+__________________________
+Mathieu BARBIER, Ph.D.
+Associate Researcher (CRCN Inserm)
+Eq. Levy-Volle FRONTLAB
+Institut du Cerveau - ICM
+UMR S 1127
+Hôpital de la Pitié-Salpêtrière - 47, boulevard de l'Hôpital – 75013 Paris
+Tél:+ 33 (0)1 57 27 46 53
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bonjour Elsa, 
+
+J'espère que tu vas bien, 
+
+Comme demandé, je t'envoie ci joint les données obtenues des analyses OGM.
+Pour information, nous avons adopté un seuil à 70 repeats, et ici j'ai filtré tous les reads WT.
+
+Je te remercie pour ton aide, et te souhaite une agréable journée, 
+Mounir
